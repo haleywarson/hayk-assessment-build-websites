@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+header {
+    font-size: large;
+    background-color: black;
+}
+
+nav li {
+    display: inline;
+}
+
+h1 {
+    color: grey;
+}
+
+h2 {
+    color: grey;
+}
+
+.flexbox {
+    display: flex;
+    align-items: center;
+}
+
+footer {
+    background-color: black;
+    color: grey;
+}
